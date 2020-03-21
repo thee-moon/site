@@ -29,8 +29,12 @@ hr{
   border-color: #bae5e5;
   border-width: 6px;
 
-
   border-style: dotted none none;
+}
+.hello-para{
+  margin: auto;
+  width:50%;
+   font-color:#40514E;
 }
 .sec-cloud{
   position:absolute;
