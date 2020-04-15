@@ -31,12 +31,12 @@ hr{
 
   border-style: dotted none none;
 }
-.hello-para{
+/* .hello-para{
   margin: auto;
   width:50%;
   size:62.5px;
    font-color:#40514E;
-}
+} */
 .sec-cloud{
   position:absolute;
   bottom: 250px;
